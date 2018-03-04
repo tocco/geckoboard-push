@@ -1,5 +1,7 @@
 # geckoboard-push
 
+[![Build Status](https://travis-ci.org/tocco/geckoboard-push.svg?branch=master)](https://travis-ci.org/tocco/geckoboard-push)
+
 This project consists of a Node.js script to update a
 Geckoboard KPI dashboard.
 
